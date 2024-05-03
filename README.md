@@ -4,6 +4,7 @@ This ReadMe serves to:
    2. Specify code source and its location in my 'CryptoClustering' repository,
    3. Explain the process of the challenge
 
+
 1. 
 My name is Brittney Watts, and I am in the UNCC/EdX Data Analytics Bootcamp. This challenge is a product my own work from my interpretation of the material I learned in class with some help from forums.
 
