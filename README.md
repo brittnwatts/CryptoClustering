@@ -6,7 +6,7 @@ This ReadMe serves to:
 
 
 1. 
-My name is Brittney Watts, and I am in the UNCC/EdX Data Analytics Bootcamp. This challenge is a product my own work from my interpretation of the material I learned in class with some help from forums.
+My name is Brittney Watts, and this challenge is a product my own work from my interpretation of the material I learned in class with some help from forums.
 
 2. 
 The source code is my interpretation of the information we have learned in class with some debugging help from forums, and here
